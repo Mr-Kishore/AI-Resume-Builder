@@ -1,0 +1,6 @@
+Replace this file with your complete master resume text.
+
+Tips:
+- Include measurable outcomes and technologies used.
+- Keep each project and role clearly separated.
+- Update this file before running the CLI tool.
